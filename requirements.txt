@@ -1,1 +1,2 @@
 django==3.2.6
+django-environ==0.4.5 #este sirve para protejear las variables sensibles osea las contrasenas
